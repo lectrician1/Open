@@ -7,7 +7,7 @@ An open-sourced solution for consumer internet services.
 ## Proposal
 
 #### For the Consumer
-The internet is big. *To* big. If you want to get simple updates on your favorite public figure or just talk with your friends, there are numerous internet services that you need to sign up for to see everything. Managing all of these services takes usable time out of your day. Why switch between apps when you can just have one? Take a look at how it works below. 
+The internet is big. *Too* big. If you want to get simple updates on your favorite public figure or just talk with your friends, there are numerous internet services that you need to sign up for to see everything. Managing all of these services takes usable time out of your day. Why switch between apps when you can just have one? Take a look at how it works below. 
 
 #### For the Marketer
 Managing internet services can easily be done nowadays with a dedicated team or by using a software like Hootsuite. But there's a problem. Not all of your users are part of all of the platforms you manage. Also, are you connecting with all of your users in the more effective way possible? Take a look at how it works below to find out more.
