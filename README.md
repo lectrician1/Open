@@ -19,7 +19,7 @@ Managing internet services can easily be done nowadays with a dedicated team or 
 ***|**  = A note regarding the point above it.*
 
 1. Create an account.
-   - Or you can create an account with one of these services:
+   - Or you can create an account with one (or more) of these services:
       - Google
       - Facebook
       - Twitter
