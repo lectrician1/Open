@@ -26,6 +26,7 @@ Managing internet services can easily be done nowadays with a dedicated team or 
       - Instagram
       - Snapchat
       - Messenger
+      - Discord
       - Twitch
       - Mixer
       - Linkedin
@@ -53,13 +54,14 @@ Managing internet services can easily be done nowadays with a dedicated team or 
    - Every feature on our platform is free 
    - Anybody can contribute to building the platform
    - We are a nonprofit that aims to benefit ***you***
-2. Open is constantly evolving. Meeting the features of 
+2. Open is constantly evolving. You can request a feature and we'll add it. Open not only takes those ideas of other apps and incorperates it in itself, but also has a variety of features that make it better choice than competitors.
+3. Speaking of competitors... Open is against some of biggest companies in the world. Every service that you can login with in our list above is an important competitor in the world of computers; most notably Google. 
 
 ---
 
 ## Invest
-
-
+1. You can directly donate to the people who are working on this project [here](https://paypal.me/pools/c/86PGptjgm3)
+2. Open is looking currently looking for companies or open sourced projects that have experience in designing web platforms and/or have large market share in an internet service. They would be willing to commit company/project to the company and be associated under Open.
 ---
 
 ## FAQ
