@@ -52,11 +52,13 @@ Managing internet services can easily be done nowadays with a dedicated team or 
 1. Open is *Open Sourced*. This means that: 
    - Every feature on our platform is free 
    - Anybody can contribute to building the platform
-   - We are a nonprofit that aims to benefit ***you***.
+   - We are a nonprofit that aims to benefit ***you***
+2. Open is constantly evolving. Meeting the features of 
 
 ---
 
 ## Invest
+
 
 ---
 
